@@ -1,8 +1,8 @@
 # Author: Narothe
 Dimensions (in millimeters):
-- X: 60
-- Y: 70.660
-- Z: 75.907
+- X: 20
+- Y: 10.15
+- Z: 80
 
 ![Photo1](images/photo1.png)
 ![Photo2](images/photo2.png)
