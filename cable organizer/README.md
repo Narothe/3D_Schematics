@@ -4,8 +4,8 @@ Dimensions (in millimeters):
 - Y: 10.15
 - Z: 80
 
-![Photo1](images/photo1.png)
-![Photo2](images/photo2.png)
+![Photo1](images/photoo1.png)
+![Photo2](images/photoo2.png)
 
 Model tested. Comments:
 - Some wires may be too large for this organizer. I recommend then to use sandpaper and grind the side surface of the balls, so that the wire enters without problems
