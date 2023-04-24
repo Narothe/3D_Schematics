@@ -1,4 +1,5 @@
 # Author: Narothe
+Note: model may be too small
 Dimensions (in millimeters):
 - X: 60
 - Y: 70.660
