@@ -17,6 +17,7 @@ Real life Photos:
 ![Photo4](images/photo4.png)
 ![Photo5](images/photo5.png)
 
+I do not allow the photos to be made public by third parties without the knowledge of the author.<br>
 
 By using this model you take full responsibility for any malfunctions or other probelms during the use of this model.<br>
 In case of problems, please send me a message.
