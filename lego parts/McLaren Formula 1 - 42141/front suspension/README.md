@@ -25,5 +25,5 @@ part2 from version 1.0, <br>
 part3 from version 1.1. <br>
 This arrangement makes the front suspension look good and holds.
 
-## Pre-verstion 1.3:
+## Pre-Version 1.3:
 The crossover output from part2 needs to be a little longer. The entire constring needs to be taller.
